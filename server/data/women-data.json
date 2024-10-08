@@ -1,0 +1,117 @@
+[
+  {
+    "type": "women",
+    "data": {
+      "type": "salwar",
+      "id": 11001,
+      "name": "Red cotton salwar",
+      "slugs": {
+        "shopName": "Athwa Textiles",
+        "city": "Bangalore"
+      },
+      "image": "",
+      "tags": [],
+      "dispatchTime": "1 days",
+      "cost": {
+        "one": 880,
+        "costfortwo": 1600
+      },
+      "promoted": "true",
+      "avgRating": "3.2",
+      "totalRatings": 1000,
+      "new": true
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "salwar",
+      "id": 11002,
+      "name": "Red cotton salwar",
+      "slugs": {
+        "shopName": "Athwa Textiles",
+        "city": "Bangalore"
+      },
+      "image": "",
+      "tags": ["partywear", "casualwear"],
+      "dispatchTime": "2 days",
+      "cost": {
+        "one": 1600,
+        "costfortwo": 3000
+      },
+      "promoted": "true",
+      "avgRating": "3.2",
+      "totalRatings": 1000,
+      "new": false
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "salwar",
+      "id": 11003,
+      "name": "Anarkali salwar",
+      "slugs": {
+        "shopName": "Behna Textiles",
+        "city": "Bangalore"
+      },
+      "image": "",
+      "tags": ["partywear", "casualwear"],
+      "dispatchTime": "2 days",
+      "cost": {
+        "one": 1500,
+        "costfortwo": 3000
+      },
+      "promoted": "true",
+      "avgRating": "3.2",
+      "totalRatings": 1000,
+      "new": false
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "salwar",
+      "id": 11004,
+      "name": "Anarkali salwar",
+      "slugs": {
+        "shopName": "Behna Textiles",
+        "city": "Chennai"
+      },
+      "image": "",
+      "tags": ["partywear", "casualwear"],
+      "dispatchTime": "2 days",
+      "cost": {
+        "one": 1000,
+        "costfortwo": 1999
+      },
+      "promoted": "true",
+      "avgRating": "3.4",
+      "totalRatings": 1000,
+      "new": true
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "salwar",
+      "id": 11004,
+      "name": "Anarkali salwar",
+      "slugs": {
+        "shopName": "Behna Textiles",
+        "city": "Chennai"
+      },
+      "image": "",
+      "tags": ["partywear", "casualwear"],
+      "dispatchTime": "2 days",
+      "cost": {
+        "one": 1000,
+        "costfortwo": 1999
+      },
+      "promoted": "true",
+      "avgRating": "3.4",
+      "totalRatings": 1000,
+      "new": true
+    }
+  }
+]
