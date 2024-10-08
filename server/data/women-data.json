@@ -4,12 +4,12 @@
     "data": {
       "type": "salwar",
       "id": 11001,
-      "name": "Red cotton salwar",
+      "name": "Blue cotton salwar",
       "slugs": {
         "shopName": "Athwa Textiles",
         "city": "Bangalore"
       },
-      "image": "",
+      "image": "https://www.soch.com/media/catalog/product/b/l/blue_embellished_silk_blend_anarkali_suit_set_with_sequins_womens_soch-owa4cd21104b_01.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=",
       "tags": [],
       "dispatchTime": "1 days",
       "cost": {
@@ -32,7 +32,7 @@
         "shopName": "Athwa Textiles",
         "city": "Bangalore"
       },
-      "image": "",
+      "image": "https://www.sareespalace.com/image/cache/data-2024/embroidered-red-salwar-kameez-301356-0-296x408.jpg",
       "tags": ["partywear", "casualwear"],
       "dispatchTime": "2 days",
       "cost": {
@@ -55,7 +55,7 @@
         "shopName": "Behna Textiles",
         "city": "Bangalore"
       },
-      "image": "",
+      "image": "https://ethnicrace.com/wp-content/uploads/2021/12/Brithish-Pink-Anarkali-Salwar-Suit-in-Gown-Inspired-Design.jpg",
       "tags": ["partywear", "casualwear"],
       "dispatchTime": "2 days",
       "cost": {
@@ -78,7 +78,7 @@
         "shopName": "Behna Textiles",
         "city": "Chennai"
       },
-      "image": "",
+      "image": "https://resources.indianclothstore.com/resources/simage/Pink-Faux-Georgette-Embroidered-Center-Slit-Anarkali-Suit-1020B12012024.jpg",
       "tags": ["partywear", "casualwear"],
       "dispatchTime": "2 days",
       "cost": {
@@ -95,23 +95,115 @@
     "type": "women",
     "data": {
       "type": "salwar",
-      "id": 11004,
-      "name": "Anarkali salwar",
+      "id": 11005,
+      "name": "Lehanga salwar",
       "slugs": {
-        "shopName": "Behna Textiles",
+        "shopName": "Berahana Readymades",
         "city": "Chennai"
       },
-      "image": "",
-      "tags": ["partywear", "casualwear"],
-      "dispatchTime": "2 days",
+      "image": "https://pictures.kartmax.in/live/cover/600x800/sites/9s145MyZrWdIAwpU0JYS/product-images/trendy_mauve_pink_tissue_silk_anarkali_suit_1716353054a1110(mauve)_2.jpg",
+      "tags": ["partywear", "casualwear", "weddingwear"],
+      "dispatchTime": "1 days",
       "cost": {
-        "one": 1000,
-        "costfortwo": 1999
+        "one": 2600,
+        "costfortwo": 5100
       },
-      "promoted": "true",
-      "avgRating": "3.4",
-      "totalRatings": 1000,
-      "new": true
+      "promoted": "false",
+      "avgRating": "3.9",
+      "totalRatings": 3000,
+      "new": false
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "salwar",
+      "id": 11006,
+      "name": "Anarkali Pattu salwar",
+      "slugs": {
+        "shopName": "Berahana Readymades",
+        "city": "Chennai"
+      },
+      "image": "https://assets2.andaazfashion.com/media/catalog/product/t/e/teal-green-soft-silk-anarkali-suit-lstv110824-1.jpg",
+      "tags": ["partywear", "casualwear", "weddingwear"],
+      "dispatchTime": "1 days",
+      "cost": {
+        "one": 2600,
+        "costfortwo": 5100
+      },
+      "promoted": "false",
+      "avgRating": "3.9",
+      "totalRatings": 3000,
+      "new": false
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "salwar",
+      "id": 11007,
+      "name": "Green Anarkali salwar",
+      "slugs": {
+        "shopName": "Arrakah Readymades",
+        "city": "Chennai"
+      },
+      "image": "https://resources.indianclothstore.com/resources/productimages/4120112062023-Teal-Silk-Long-Anarkali-Suit.jpg",
+      "tags": ["partywear", "casualwear", "weddingwear", "anarkali"],
+      "dispatchTime": "1 days",
+      "cost": {
+        "one": 2600,
+        "costfortwo": 5100
+      },
+      "promoted": "false",
+      "avgRating": "3.9",
+      "totalRatings": 3000,
+      "new": false
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "saree",
+      "id": 11008,
+      "name": "Silk saree",
+      "slugs": {
+        "shopName": "Arrakah Readymades and Silks",
+        "city": "Chennai"
+      },
+      "image": "https://thenmozhidesigns.com/cdn/shop/files/ASWN4717_1.jpg?v=1713347098",
+      "tags": ["partywear", "casualwear", "weddingwear", "silksarees"],
+      "dispatchTime": "1 days",
+      "cost": {
+        "one": 2600,
+        "costfortwo": 5100
+      },
+      "promoted": "false",
+      "avgRating": "3.9",
+      "totalRatings": 3000,
+      "new": false
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "saree",
+      "id": 11009,
+      "name": "Pastel Green silk saree",
+      "slugs": {
+        "shopName": "Akash Readymades and Silks",
+        "city": "Nagercoil"
+      },
+      "image": "https://shrus.com/cdn/shop/files/CGS15503_1.jpg?v=1721472023&width=3024",
+      "tags": ["partywear", "weddingwear", "silksarees"],
+      "dispatchTime": "1 days",
+      "cost": {
+        "one": 2600,
+        "costfortwo": 5100
+      },
+      "promoted": "false",
+      "avgRating": "3.9",
+      "totalRatings": 3000,
+      "new": false
     }
   }
 ]
