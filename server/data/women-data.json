@@ -16,7 +16,7 @@
         "one": 880,
         "costfortwo": 1600
       },
-      "promoted": "true",
+      "promoted": true,
       "avgRating": "3.2",
       "totalRatings": 1000,
       "new": true
@@ -39,7 +39,7 @@
         "one": 1600,
         "costfortwo": 3000
       },
-      "promoted": "true",
+      "promoted": true,
       "avgRating": "3.2",
       "totalRatings": 1000,
       "new": false
@@ -62,7 +62,7 @@
         "one": 1500,
         "costfortwo": 3000
       },
-      "promoted": "true",
+      "promoted": true,
       "avgRating": "3.2",
       "totalRatings": 1000,
       "new": false
@@ -85,7 +85,7 @@
         "one": 1000,
         "costfortwo": 1999
       },
-      "promoted": "true",
+      "promoted": true,
       "avgRating": "3.4",
       "totalRatings": 1000,
       "new": true
@@ -108,7 +108,7 @@
         "one": 2600,
         "costfortwo": 5100
       },
-      "promoted": "false",
+      "promoted": false,
       "avgRating": "3.9",
       "totalRatings": 3000,
       "new": false
@@ -131,7 +131,7 @@
         "one": 2600,
         "costfortwo": 5100
       },
-      "promoted": "false",
+      "promoted": false,
       "avgRating": "3.9",
       "totalRatings": 3000,
       "new": false
@@ -154,7 +154,7 @@
         "one": 2600,
         "costfortwo": 5100
       },
-      "promoted": "false",
+      "promoted": false,
       "avgRating": "3.9",
       "totalRatings": 3000,
       "new": false
@@ -177,7 +177,7 @@
         "one": 2600,
         "costfortwo": 5100
       },
-      "promoted": "false",
+      "promoted": false,
       "avgRating": "3.9",
       "totalRatings": 3000,
       "new": false
@@ -200,10 +200,149 @@
         "one": 2600,
         "costfortwo": 5100
       },
-      "promoted": "false",
+      "promoted": false,
       "avgRating": "3.9",
       "totalRatings": 3000,
       "new": false
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "saree",
+      "id": 11010,
+      "name": "Kanchipuram silk saree",
+      "slugs": {
+        "shopName": "Ravina Readymades and Silks",
+        "city": "Nagercoil"
+      },
+      "image": "https://5.imimg.com/data5/SELLER/Default/2020/12/CG/EP/WY/11661540/whatsapp-image-2020-12-24-at-12-04-25-2-.jpeg",
+      "tags": ["partywear", "weddingwear", "silksarees"],
+      "dispatchTime": "1 days",
+      "cost": {
+        "one": 8600,
+        "costfortwo": 17000
+      },
+      "promoted": false,
+      "avgRating": "3.9",
+      "totalRatings": 3000,
+      "new": true
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "saree",
+      "id": 11011,
+      "name": "Irish Purple Kanchipuram silk saree",
+      "slugs": {
+        "shopName": "Ravina Readymades and Silks",
+        "city": "Nagercoil"
+      },
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrtBvL772O_NxCxrvYPTcZFHC-7v9HQRyct2rnSE8Oeu-ZwqMUG9u3YnONEQiUO_1ljs&usqp=CAU",
+      "tags": ["partywear", "weddingwear", "silksarees"],
+      "dispatchTime": "1 days",
+      "cost": {
+        "one": 10600,
+        "costfortwo": 21000
+      },
+      "promoted": false,
+      "avgRating": "3.9",
+      "totalRatings": 3000,
+      "new": true
+    }
+  },
+
+  {
+    "type": "women",
+    "data": {
+      "type": "tops",
+      "id": 11012,
+      "name": "Floral top",
+      "slugs": {
+        "shopName": "Ravina Readymades and Silks",
+        "city": "Nagercoil"
+      },
+      "image": "https://images.meesho.com/images/products/219940276/ftmyw_512.webp",
+      "tags": ["normalwear", "casualwear", "tops"],
+      "dispatchTime": "1 days",
+      "cost": {
+        "one": 400,
+        "costfortwo": 750
+      },
+      "promoted": true,
+      "avgRating": "3.9",
+      "totalRatings": 3000,
+      "new": false
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "tops",
+      "id": 11013,
+      "name": "Floral top",
+      "slugs": {
+        "shopName": "Rana Readymades",
+        "city": "Nagercoil"
+      },
+      "image": "https://assets.ajio.com/medias/sys_master/root/20230801/VsCb/64c8f61aa9b42d15c980430c/-288Wx360H-466382996-aqua-MODEL.jpg",
+      "tags": ["normalwear", "casualwear", "tops"],
+      "dispatchTime": "2 days",
+      "cost": {
+        "one": 350,
+        "costfortwo": 680
+      },
+      "promoted": true,
+      "avgRating": "3.9",
+      "totalRatings": 3000,
+      "new": false
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "tops",
+      "id": 11014,
+      "name": "Black top",
+      "slugs": {
+        "shopName": "Rana Readymades",
+        "city": "Nagercoil"
+      },
+      "image": "https://img.drz.lazcdn.com/static/pk/p/ea006647b0729e3beccee0ca2661ca27.jpg_720x720q80.jpg",
+      "tags": ["normalwear", "casualwear", "tops"],
+      "dispatchTime": "2 days",
+      "cost": {
+        "one": 650,
+        "costfortwo": 1300
+      },
+      "promoted": true,
+      "avgRating": "3.9",
+      "totalRatings": 3000,
+      "new": true
+    }
+  },
+  {
+    "type": "women",
+    "data": {
+      "type": "tops",
+      "id": 11014,
+      "name": "Blue top",
+      "slugs": {
+        "shopName": "Diana Readymades",
+        "city": "Coimbatore"
+      },
+      "image": "https://i.pinimg.com/474x/65/3d/be/653dbe1acc76addf851dfb3b56aedb0e.jpg",
+      "tags": ["normalwear", "casualwear", "tops"],
+      "dispatchTime": "2 days",
+      "cost": {
+        "one": 650,
+        "costfortwo": 1300
+      },
+      "promoted": true,
+      "avgRating": "3.9",
+      "totalRatings": 3000,
+      "new": true
     }
   }
 ]
